@@ -7,7 +7,31 @@ font-family: 'Quicksand', sans-serif;
 h1{
     font-size: 52px;
     text-transform: capitalize;
+    
+}
+
+span{
+    color: orange ;
     font-weight: 700;
+}
+
+.first-section{
+    display: flex;
+}
+
+img{
+    max-height: 785px;
+    max-width: 625px;
+}
+
+.style-one{
+    width:50%;
+    padding: 5%;
+}
+
+.style-two{
+    width: 50%;
+    padding: 2%;
 }
 
  
