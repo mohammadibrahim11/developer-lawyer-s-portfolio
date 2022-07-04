@@ -10,7 +10,7 @@ h1{
     border-top: 15px solid orange;
     border-bottom: 15px solid orange;
     padding: 10px;
-    margin-left: 50%;
+    
     
     
     
@@ -23,12 +23,14 @@ span{
 
 .first-section{
     display: flex;
+    width: 50%;
+    margin: 0 auto;
     
 }
 
 img{
-    max-height: 785px;
-    max-width: 625px;
+    height: 785px;
+
 }
 
 .style-one{
@@ -49,9 +51,28 @@ h3{
     
 }
 .law{
-    margin-left: 50%;
+   
     text-align: justify;
     margin-top: 100px;
+}
+
+.social-link{
+
+    margin-top: 50px;
+    font-size: 42px;
+    
+    
+    
+    
+}
+
+.social-link a{
+    color: orange;
+    
+}
+
+.social-link a:hover{
+    color: orangered;
 }
 
 
