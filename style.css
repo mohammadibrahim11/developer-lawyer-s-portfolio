@@ -7,6 +7,9 @@ font-family: 'Quicksand', sans-serif;
 h1{
     font-size: 52px;
     text-transform: capitalize;
+    border-top: 10px solid orange;
+    border-bottom: 10px solid orange;
+    
     
 }
 
@@ -32,6 +35,10 @@ img{
 .style-two{
     width: 50%;
     padding: 2%;
+}
+h3{
+    text-transform: uppercase;
+    tex
 }
 
  
