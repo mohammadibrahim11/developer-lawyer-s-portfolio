@@ -23,7 +23,7 @@ span{
 
 .first-section{
     display: flex;
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
     
 }
@@ -73,6 +73,53 @@ h3{
 
 .social-link a:hover{
     color: orangered;
+}
+
+.heading-style{
+    text-transform: capitalize;
+    font-size: 22px;
+    font-weight: 700;
+    
+
+}
+
+.section-two{
+    width: 55%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.section-two p{
+    border-bottom: 15px solid orange;
+    text-align: justify;
+    padding-bottom: 10px;
+    font-size:18px ;
+    font-weight: 700;
+    
+   
+
+
+}
+.section-two h2{
+    font-size: 42px;
+    font-weight: 700;
+
+}
+ 
+.div-section{
+    display: flex;
+    width: 55%;
+    margin: 0 auto;
+    
+    
+}
+
+.padding-p{
+    padding: 5%;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 700;
+
 }
 
 
