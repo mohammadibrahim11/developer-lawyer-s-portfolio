@@ -2,6 +2,7 @@
 body{
     font-family: 'Oswald', sans-serif;
 font-family: 'Quicksand', sans-serif;
+margin: 0;
 }
 
 h1{
@@ -117,12 +118,65 @@ h3{
 }
 
 .padding-p{
-    padding: 5%;
+    padding: 2%;
     text-align: left;
     font-size: 18px;
     font-weight: 700;
 
 }
+
+.section-three{
+    width: 100%;
+   text-align: center;
+    background-color: #F17C0E;
+    height: 350px;
+    
+    
+}
+.div-style h2{
+    font-size: 2.25rem;
+    color: white;
+    font-weight: 700;
+   padding-top: 60px;
+   padding-bottom: 10px;
+
+   
+
+
+}
+
+.div-style p{
+    font-family: 16px;
+    color: #FAEAFF;
+    
+}
+
+.div-style a  span {
+    border:1px solid #FAEAFF;
+    padding: 10px 60px;
+    background-color: #faeaff;
+    text-align: center;
+    color: orangered;
+    text-transform: capitalize;
+   
+   
+    
+  
+
+
+}
+
+.margin {
+    margin-top:50px ;
+    
+}
+
+.link-decoration{
+    text-decoration: none;
+}
+
+
+
 
 
  
